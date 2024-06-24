@@ -10,7 +10,7 @@ Depression risk recognition based on gait: A benchmark
 
 **(1) Large Data Scale**
 
-The D-Gait dataset comprises 27,120 gait sequences collected from 292 volunteers. This extensive sample size provides robust support for data-driven methodologies and enhances the reliability of research outcomes.
+The D-Gait dataset comprises 27,120 gait sequences collected from 292 volunteers. This extensive sample size provides robust support for data-driven methodologies.
 
 **(2) Comprehensive Diversity**
 
