@@ -31,3 +31,19 @@ To obtain and use this dataset and its subsets, all users are required to comple
 
 We will handle your requests within a week. In case you encounter any issues, please feel free to reach out to us via [BNU-IVC@outlook.com](mailto:BNU-IVC@outlook.com).
 
+
+## Citation
+Please cite the following paper if you find this useful in your research:
+
+
+
+```BibTeX
+@article{liu2024depression,
+  title={Depression risk recognition based on gait: A benchmark},
+  author={Liu, Xiaotong and Li, Qiong and Hou, Saihui and Ren, Min and Hu, Xuecai and Huang, Yongzhen},
+  journal={Neurocomputing},
+  pages={128045},
+  year={2024},
+  publisher={Elsevier}
+}
+```
