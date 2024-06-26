@@ -16,14 +16,11 @@ The D-Gait dataset comprises 27,120 gait sequences collected from 292 volunteers
 
 The D-Gait dataset accounts for a wide range of shooting angles and clothing variations. Specifically, it features 16 uniformly distributed shooting angles from 0 to 180 degrees. Clothing variations include not only normal walking patterns but also factors such as walking with bags and walking in different clothing.
 
+<img src="./assets/collection.png" width = "300" height = "150"/>       <img src="./assets/example.png" width = "300" height = "250"/>
+
 **(3) Reliability of Label**
 
  The reliability of the D-Gait dataset labels is ensured through the integration of three professional diagnostic scales: SDS, PHQ-9, and GAD-7. This approach significantly enhances the accuracy and reliability of the labels.
-
-
-### Data Collection
-
-<img src="./assets/collection.png" width = "300" height = "150"/>       <img src="./assets/example.png" width = "300" height = "250"/>
 
 
 
