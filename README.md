@@ -30,9 +30,9 @@ The D-Gait dataset accounts for a wide range of shooting angles and clothing var
 To obtain and use this dataset and its subsets, all users are required to complete the following steps:
 
 1. Download the latest agreement and complete it.
-2. Submit it to [BNU-IVC@outlook.com](mailto:BNU-IVC_D-Gait@outlook.com) .
+2. Submit it to [BNU-IVC_D-Gait@outlook.com](mailto:BNU-IVC_D-Gait@outlook.com) .
 
-We will handle your requests within a week. In case you encounter any issues, please feel free to reach out to us via [BNU-IVC@outlook.com](mailto:BNU-IVC_D-Gait@outlook.com).
+We will handle your requests within a week. In case you encounter any issues, please feel free to reach out to us via [BNU-IVC_D-Gait@outlook.com](mailto:BNU-IVC_D-Gait@outlook.com).
 
 
 ## Citation
