@@ -23,7 +23,7 @@ The D-Gait dataset accounts for a wide range of shooting angles and clothing var
 
 ### Data Collection
 
-<img src="./assets/collection.png" width = "300" height = "150"/> <img src="./assets/example.png" width = "150" height = "150"/>
+<img src="./assets/collection.png" width = "300" height = "150"/> <img src="./assets/example.png" width = "200" height = "200"/>
 
 
 
