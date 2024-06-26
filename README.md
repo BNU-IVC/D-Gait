@@ -21,6 +21,12 @@ The D-Gait dataset accounts for a wide range of shooting angles and clothing var
  The reliability of the D-Gait dataset labels is ensured through the integration of three professional diagnostic scales: SDS, PHQ-9, and GAD-7. This approach significantly enhances the accuracy and reliability of the labels.
 
 
+### Data Collection
+
+
+
+
+
  This dataset includes **silhouette** and **skeleton** data versions, but it is essential to note that it is **ACADEMIC USE ONLY**.
 
 ------
